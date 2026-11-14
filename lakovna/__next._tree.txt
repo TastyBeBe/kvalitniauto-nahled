@@ -1,0 +1,7 @@
+:HL["/kvalitniauto-nahled/_next/static/chunks/1wxu3w_i6qbp5.css","style"]
+:HL["/kvalitniauto-nahled/_next/static/media/golos_text_400_latin-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kvalitniauto-nahled/_next/static/media/golos_text_400_latin_ext.p.2ocajiqvilzpk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kvalitniauto-nahled/_next/static/media/saira_condensed_800_latin-s.p.23wzz49_-cmg8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kvalitniauto-nahled/_next/static/media/saira_condensed_800_latin_ext.p.2txqxi6n2mq4k.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kvalitniauto-nahled/fotky/lakovna-box-cerne-kupe-640.avif","image",{"type":"image/avif","fetchPriority":"high","imageSrcSet":"/kvalitniauto-nahled/fotky/lakovna-box-cerne-kupe-640.avif 640w, /kvalitniauto-nahled/fotky/lakovna-box-cerne-kupe-1280.avif 1280w, /kvalitniauto-nahled/fotky/lakovna-box-cerne-kupe.avif 2400w","imageSizes":"(min-width: 1024px) 56vw, (min-width: 640px) calc(100vw - 64px), 340px"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"lakovna","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"bFkWTERUG6dAMQCHC43Cv"}
