@@ -1,7 +1,7 @@
-:HL["/kvalitniauto-nahled/_next/static/chunks/3_uzr2sjdbhzi.css","style"]
+:HL["/kvalitniauto-nahled/_next/static/chunks/11g743ldhokzm.css","style"]
 :HL["/kvalitniauto-nahled/_next/static/media/golos_text_400_latin-s.p.3psl0_mnhzy2y.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kvalitniauto-nahled/_next/static/media/golos_text_400_latin_ext.p.2ocajiqvilzpk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kvalitniauto-nahled/_next/static/media/saira_condensed_800_latin-s.p.23wzz49_-cmg8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kvalitniauto-nahled/_next/static/media/saira_condensed_800_latin_ext.p.2txqxi6n2mq4k.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kvalitniauto-nahled/fotky/lakovna-hala-zapad-slunce-640.avif","image",{"type":"image/avif","fetchPriority":"high","imageSrcSet":"/kvalitniauto-nahled/fotky/lakovna-hala-zapad-slunce-640.avif 640w, /kvalitniauto-nahled/fotky/lakovna-hala-zapad-slunce-1280.avif 1280w, /kvalitniauto-nahled/fotky/lakovna-hala-zapad-slunce.avif 1402w","imageSizes":"(min-width: 1024px) 38vw, (min-width: 640px) 76vw, 340px"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"kontakt","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"rVAf9yidaGkLf-ccENDMP"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"kontakt","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"BospDGYCk9AK4CUUtBcIX"}
