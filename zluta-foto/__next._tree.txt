@@ -1,0 +1,7 @@
+:HL["/kvalitniauto-nahled/zluta-foto/_next/static/chunks/21wopr9yp3nxp.css","style"]
+:HL["/kvalitniauto-nahled/zluta-foto/_next/static/media/league_spartan_latin-s.p.32snlzrbv4loj.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kvalitniauto-nahled/zluta-foto/_next/static/media/league_spartan_latin_ext.p.21-85hpu1rtwe.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kvalitniauto-nahled/zluta-foto/_next/static/media/rethink_sans_latin-s.p.0dhp2_wm7tc69.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kvalitniauto-nahled/zluta-foto/_next/static/media/rethink_sans_latin_ext.p.0-pv9q_xf_hpz.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/kvalitniauto-nahled/zluta-foto/fotky/vlado-u-kombi-640.avif","image",{"type":"image/avif","fetchPriority":"high","imageSrcSet":"/kvalitniauto-nahled/zluta-foto/fotky/vlado-u-kombi-640.avif 640w, /kvalitniauto-nahled/zluta-foto/fotky/vlado-u-kombi-1280.avif 1280w, /kvalitniauto-nahled/zluta-foto/fotky/vlado-u-kombi.avif 1920w","imageSizes":"(min-width: 1024px) 56vw, 100vw"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"3623WR2j4RZOOz-SwPTkR"}
