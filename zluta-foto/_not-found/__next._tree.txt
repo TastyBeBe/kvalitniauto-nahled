@@ -1,2 +1,2 @@
-:HL["/kvalitniauto-nahled/zluta-foto/_next/static/chunks/3m5d6mgj61owi.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"NXegd57Fzz2S419C_OVkg"}
+:HL["/kvalitniauto-nahled/zluta-foto/_next/static/chunks/3wt-36syopxmo.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"N2Aq7ZqiQleU1Sn-DPDYp"}
